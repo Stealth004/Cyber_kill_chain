@@ -98,3 +98,12 @@
 <h1>Cyber Kill Chain</h1>
 
 <p>The cyber kill chain is a model that describes the stages of a cyber attack, from initial infiltration to exfiltration of data. There are seven stages in the cyber kill chain: reconnaissance, weaponization, delivery, exploitation, installation, command and control, and actions on objectives. To defend against these stages, organizations can implement a variety of security measures, such as access controls, data encryption, email and web filtering, firewalls, intrusion detection systems, endpoint security, network segmentation, and data backup and recovery. No single security measure is foolproof, so it's important for organizations to implement a combination of measures to provide the best possible defense against cyber threats.</p>
+
+<!--BREAK7-->
+<h1>References</h1>
+
+<ul>
+  <li>"The Cyber Kill Chain" by Lockheed Martin: <a href="https://www.lockheedmartin.com/en-us/capabilities/cyber/cyber-kill-chain.html">https://www.lockheedmartin.com/en-us/capabilities/cyber/cyber-kill-chain.html</a></li>
+  <li>"The 7 Stages of the Cyber Attack Lifecycle" by DarkReading: <a href="https://www.darkreading.com/risk/the-7-stages-of-the-cyber-attack-lifecycle/a/d-id/1324227">https://www.darkreading.com/risk/the-7-stages-of-the-cyber-attack-lifecycle/a/d-id/1324227</a></li>
+  <li>"Understanding the Cyber Kill Chain" by FireEye: <a href="https://www.fireeye.com/blog/threat-research/2013/01/understanding-the-cyber-kill-chain.html">https://www.fireeye.com/blog/threat-research/2013/01/understanding-the-cyber-kill-chain.html</a></li>
+</ul>
